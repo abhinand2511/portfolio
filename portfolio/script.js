@@ -10,7 +10,6 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
-    // Highlight active navigation link
     const sections = document.querySelectorAll('section');
     const navLinks = document.querySelectorAll('#main-nav ul li a');
 
